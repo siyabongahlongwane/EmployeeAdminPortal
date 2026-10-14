@@ -1,0 +1,27 @@
+## Build folders
+bin/
+obj/
+
+## Rider / IntelliJ / Android Studio
+.idea/
+.rider/
+*.sln.iml
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+
+## VS Code
+.vscode/
+!.vscode/launch.json
+
+## Secrets & Local configurations
+*.publishsettings
+.env
+usersecrets.json
+
+## OS generated files
+.DS_Store
+Thumbs.db
